@@ -14,7 +14,7 @@ import lombok.Data;
  */
 @Entity(name = "students")
 @Data
-
+//@JsonInclude(JsonInclude.Include.NON_NULL)
 public class Student {
 
     @Id
