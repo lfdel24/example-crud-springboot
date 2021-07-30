@@ -9,7 +9,7 @@ import org.springframework.stereotype.Service;
 
 /**
  *
- * @author leo
+ * @author leo Bussines logic
  */
 @Service
 public class StudentService {

@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.ResponseStatus;
 
 /**
  *
- * @author leo Convierte las exepciones java a errores http
+ * @author leo Convert excetions java to errors http
  */
 @ControllerAdvice
 public class AppExceptionHandler extends RuntimeException {

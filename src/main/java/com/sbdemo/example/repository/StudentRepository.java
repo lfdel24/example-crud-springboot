@@ -6,7 +6,7 @@ import org.springframework.stereotype.Repository;
 
 /**
  *
- * @author leo
+ * @author leo Data access layer, spring boot implements DAO
  */
 @Repository
 public interface StudentRepository extends JpaRepository<Student, Long> {
